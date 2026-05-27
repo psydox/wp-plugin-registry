@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "plugins": [
+    {
+      "slug": "wptoc-plus",
+      "metadata_url": "https://raw.githubusercontent.com/psydox/WPTOC-Plus/main/plugin.json"
+    }
+  ]
+}

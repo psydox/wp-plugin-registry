@@ -1,0 +1,8 @@
+Best practice each update:
+
+• Bump plugin version in the plugin code.
+• Create a GitHub release tag (for example v2026.05.27.1420).
+• Upload a ZIP asset for that release.
+• Update plugin.json with the new version, download_url, and changelog_url.
+• Commit/push plugin.json.
+• Ensure central registry.json still points to that plugin’s plugin.json.
